@@ -10,6 +10,8 @@
         -> ifyes
     * [ไม่รับ]
         -> ifno
+    * [ยังไงก็ได้]
+        -> threechoice //ใส่ไว้กวนตีน
 
 == ifyes ==
 โอ้.. พัสดุของฉันเหรอ #character:hina #image:hina_flush
@@ -20,3 +22,7 @@
 ฉันไม่ได้สั่งนะคะ คุณคงส่งผิดห้องแล้วละค่ะ #character:hina #image:hina_confused
 
 -> END
+
+== threechoice ==
+จะรับหรือไม่รับ? เจ้าต้องกลับไปเลือกนะเจ้าผู้เล่น
+-> postchoice

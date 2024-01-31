@@ -1,6 +1,6 @@
 -> main
 === main ===
-เทอมาสายตั้ง 30นาที เลยนะ #character:takeda #image:takeda_serious
+เธอมาสายตั้ง 30 นาทีเลยนะ #character:takeda #image:takeda_serious
 ขอโทษคะ พอดีฉันตั้งนาฬิกาปลุกแล้วแต่มันไม่ดัง #character:hina #image:hina_sad
 ไม่ต้องมาแก้ตัว!? ถ้าเป็นที่อื่นคงไล่เทออกไปแล้ว #character:takeda #image:takeda_angry
 ขอโทษจริงๆค่ะ #character:hina #image:hina_sad
