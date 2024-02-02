@@ -1,7 +1,7 @@
 -> Main
 == Main ==
 ใครมาเคาะประตูหน้าห้องฉันแต่เช้าเนี้ย  #character:hina #image:hina_sleppy
-คนส่งของ : มีพัสดุมาส่งถึงคุณ ฮินะ ครับ #character:postman #image:postman
+มีพัสดุมาส่งถึงคุณ ฮินะ ครับ #character:postman #image:postman
 -> postchoice
 
 == postchoice ==
