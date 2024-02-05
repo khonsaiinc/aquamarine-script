@@ -13,7 +13,9 @@
 นี่มัน #character:Hina #image:hina_flush
 แจกันดอกไม้ของคุณแม่นี่หน่า #character:Hina #image:hina_say
 เอาไปวางไว้บนโต๊ะดีกว่า #character:Hina #image:hina_say
+-> END
 
 == ifno ==
 เอาไว้ก่อนละกัน #character:Hina #image:hina_say
 วันนี้ฉันเหนื่อยมากแล้ว #character:Hina #image:hina_tired
+-> END
