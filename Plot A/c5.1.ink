@@ -13,7 +13,7 @@
         -> ifno // ไม่เปลี่ยน scene
 
 == ifyes ==
-
+// go c5.2
 -> END
 
 == ifno ==
