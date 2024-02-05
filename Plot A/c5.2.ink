@@ -11,7 +11,7 @@
         -> ifno 
 
 == ifyes ==
-// go 5.3
+// go c6
 -> END
 
 == ifno ==
