@@ -9,6 +9,7 @@
     * [ไม่เปิด]
         -> ifno
 
+
 == ifyes ==
 นี่มัน #character:Hina #image:hina_flush
 แจกันดอกไม้ของคุณแม่นี่หน่า #character:Hina #image:hina_say
