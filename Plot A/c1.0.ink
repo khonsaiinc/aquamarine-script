@@ -1,3 +1,5 @@
+EXTERNAL grabItem(itemName)
+
 -> Main
 == Main ==
 ใครมาเคาะประตูหน้าห้องฉันแต่เช้าเนี้ย  #character:hina #image:hina_sleppy
@@ -6,12 +8,12 @@
 
 == postchoice ==
 จะรับพัสดุที่ส่งมาหรือไม่ ?
-    * [รับ]
+    + [รับ]
+        ~ grabItem("Box")
         -> ifyes
-    * [ไม่รับ]
+        
+    + [ไม่รับ]
         -> ifno
-    * [ยังไงก็ได้]
-        -> threechoice //ใส่ไว้กวนตีน
 
 == ifyes ==
 โอ้.. พัสดุของฉันเหรอ #character:hina #image:hina_flush
