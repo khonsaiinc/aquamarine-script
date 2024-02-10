@@ -1,3 +1,4 @@
+//EXTERNAL grabItem(itemName)
 == main ==
 อยู่เฝ้าร้านคนเดียวเหรอจ๊ะ คนสวย #character:Shinkawa #image:shinkawa_say
 สนใจให้พี่อยู่เฝ้าร้านเป็นเพื่อนรึป่าว #character:Shinkawa #image:shinkawa_say
@@ -19,6 +20,7 @@
 
 == ifyes ==
 งั้น ฉันจะเก็บไว้ก็แล้วกันค่ะ #character:Hina #image:hina_say
+//~ grabItem("shinkawaNumber")
 เยชชชชชชชชชชช #character:Shinkawa #image:shinkawa_happy
 งั้นฉันจะรอเทอโทรมานะ #character:Shinkawa #image:shinkawa_happysay
 บ๊าย บาย #character:Shinkawa #image:shinkawa_happysay
