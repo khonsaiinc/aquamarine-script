@@ -26,7 +26,6 @@
 บ๊าย บาย #character:Shinkawa #image:shinkawa_happysay
 เฮ้ออ #character:Hina #image:hina_tired
 ลูกค้าแบบนี้ฉันไม่ชอบเลยแหะ #character:Hina #image:hina_say
-// item +1
 -> END
 
 == ifno ==

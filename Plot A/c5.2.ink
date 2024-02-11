@@ -1,3 +1,4 @@
+//EXTERNAL changeScene(sceneName)
 == main ==
 (มองไปรอบๆ) #character:Hina #image:hinasleep_question
 เหมือนเสียงจะดังมาจากห้องข้างๆแหะ #character:Hina #image:hinasleep_question
@@ -11,6 +12,7 @@
         -> ifno 
 
 == ifyes ==
+// ~ changeScene ("sideRoomApartment")
 // go c6
 -> END
 
