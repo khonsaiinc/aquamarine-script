@@ -1,3 +1,4 @@
+-> main
 == main ==
 ... #character:Takeda #image:questionman
 // (จับเข้าไปในห้อง)

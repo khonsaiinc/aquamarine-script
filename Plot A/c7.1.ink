@@ -1,3 +1,4 @@
+-> Main
 == Main ==
 วันนี้เธอมาตรงเวลานะ #character:Takeda #image:takeda_say
 ใช่ค่ะ ฉันเช็คนาฬิกาอย่างไม่สายแน่นอน #character:Hina #image:hina_confident
