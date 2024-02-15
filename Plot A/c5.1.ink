@@ -1,3 +1,4 @@
+-> Main
 //EXTERNAL changeScene(sceneName)
 == Main ==
 ตอนนี้ก็ดึกมากแล้ว ฉันควรรีบเข้านอน #character:Hina #image:hinasleep_say // ไม่ชัวร์ว่าต้อง้เปลี่ยนหน้าหรือเปล่า?

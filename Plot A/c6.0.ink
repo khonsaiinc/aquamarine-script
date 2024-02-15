@@ -1,3 +1,4 @@
+-> Main
 == Main ==
 ขอโทษนะคะ #character:Hina #image:hinasleep_say
 คุณเป็นอะไรรึป่าวคะ #character:Hina #image:hinasleep_say

@@ -1,3 +1,4 @@
+-> main
 //EXTERNAL changeScene(sceneName)
 == main ==
 (มองไปรอบๆ) #character:Hina #image:hinasleep_question
