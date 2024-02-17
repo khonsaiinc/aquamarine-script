@@ -1,4 +1,5 @@
 EXTERNAL grabItem(itemName)
+EXTERNAL clearNPC(destroyNPC)
 
 -> Main
 == Main ==
@@ -18,11 +19,12 @@ EXTERNAL grabItem(itemName)
 == ifyes ==
 โอ้.. พัสดุของฉันเหรอ #character:Hina #image:hina_flush
 ขอบคุณมากค่ะ #character:Hina #image:hina_smile
+~ clearNPC("Destroy")
 -> END
 
 == ifno ==
 ฉันไม่ได้สั่งนะคะ คุณคงส่งผิดห้องแล้วละค่ะ #character:Hina #image:hina_confused
-
+~ clearNPC("Destroy")
 -> END
 
 == threechoice ==
