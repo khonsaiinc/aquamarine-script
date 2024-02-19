@@ -1,8 +1,8 @@
--> main
 // EXTERNAL openItem(itemName)
+-> main
 == main ==
 ฉันยังไม่ได้เปิดพัสดุที่ได้รับมาเมื่อเช้านี่เลยนี่หน่า #character:Hina #image:hina_flush 
-ครส่งมากันนะ ? #character:Hina #image:hina_flush
+ใครส่งมากันนะ ? #character:Hina #image:hina_flush
 
 == postchoice ==
 จะเปิดพัสดุที่ได้รับมาหรือไม่ ?

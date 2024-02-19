@@ -3,7 +3,6 @@ EXTERNAL clearNPC(destroyNPC)
 
 -> Main
 == Main ==
-ใครมาเคาะประตูหน้าห้องฉันแต่เช้าเนี้ย  #character:Hina #image:hina_sleppy
 มีพัสดุมาส่งถึงคุณ ฮินะ ครับ #character:Postman #image:postman
 -> postchoice
 

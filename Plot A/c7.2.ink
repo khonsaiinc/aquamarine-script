@@ -1,4 +1,4 @@
--> Main
+-> main
 //EXTERNAL grabItem(itemName)
 == main ==
 อยู่เฝ้าร้านคนเดียวเหรอจ๊ะ คนสวย #character:Shinkawa #image:shinkawa_say
