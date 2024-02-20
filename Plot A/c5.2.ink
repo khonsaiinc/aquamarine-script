@@ -4,7 +4,7 @@
 (มองไปรอบๆ) #character:Hina #image:hinasleep_question
 เหมือนเสียงจะดังมาจากห้องข้างๆแหะ #character:Hina #image:hinasleep_question
 ฉันควรไปดูเขาหน่อยรึป่าว เผื่อว่าเขาอาจจะมีเรื่องให้ช่วย #character:Hina #image:hinasleep_question
-
+-> postchoice
 == postchoice ==
 จะเดินไปดูการกระทำที่ห้องข้าง ๆ หรือไม่ ?
     * [เปิด]

@@ -3,7 +3,7 @@
 == main ==
 ฉันยังไม่ได้เปิดพัสดุที่ได้รับมาเมื่อเช้านี่เลยนี่หน่า #character:Hina #image:hina_flush 
 ใครส่งมากันนะ ? #character:Hina #image:hina_flush
-
+-> postchoice
 == postchoice ==
 จะเปิดพัสดุที่ได้รับมาหรือไม่ ?
     * [เปิด]

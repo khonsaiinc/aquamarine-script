@@ -6,7 +6,7 @@
 (ได้ยินเสียงจากข้างนอก) #image:none // ไม่มีภาพ ไม่มี text อาจจะเป็นเสียงอะไรซักอย่างนึง
 ฉันได้ยินเสียงแปลกๆมาจากข้างนอกห้องแหะ #character:Hina #image:hinasleep_say
 มันเป็นเสียงอะไรกันนะ #character:Hina #image:hinasleep_question
-
+-> postchoice
 == postchoice ==
 จะออกไปดูข้างนอกหรือไม่ ?
     * [เปิด]
