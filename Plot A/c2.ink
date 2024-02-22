@@ -9,5 +9,5 @@ EXTERNAL questCheck(isTalked)
 เข้าใจแล้วค่ะ #character:Hina #image:hina_uniform_smile
 วันนี้เธอต้องเฝ้าร้านแทนฉัน งานของเธอก็ไม่มีอะไรมากแค่รอรับลูกค้าและคิดเงินก็พอ #character:Takeda #image:takeda_say
 ค่ะ!! #character:Hina #image:hina_uniform_fighting
-~ questCheck("TakedaFontSuperMarket")
+~ questCheck("TakedaFrontSuperMarket")
 -> END
