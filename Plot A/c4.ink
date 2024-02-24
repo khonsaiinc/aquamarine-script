@@ -1,3 +1,4 @@
+EXTERNAL questCheck(isTalk)
 -> main
 === main ===
 วันนี้เป็นยังไงบ้าง? #character:Takeda #image:Takeda_say
@@ -6,4 +7,5 @@
 งั้นเหรอ? ถ้าไม่มีปัญหาอะไรก็ดีแล้ว #character:Takeda #image:takeda
 เดี๋ยวฉันจะเฝ้าร้านต่อเอง เธอกลับบ้านไปพักได้แล้วละ #character:takeda #image:takeda_say
 โอเคค่ะ รุ่นพี่ #character:Hina #image:hina_flush
+~ questCheck("DisableTriggerTakedaChangeShift")
 -> END
