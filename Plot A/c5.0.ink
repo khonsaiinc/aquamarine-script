@@ -1,7 +1,7 @@
-// EXTERNAL openItem(itemName)
+EXTERNAL openItem(itemName)
 -> main
 == main ==
-ฉันยังไม่ได้เปิดพัสดุที่ได้รับมาเมื่อเช้านี่เลยนี่หน่า #character:Hina #image:hina_flush 
+ฉันยังไม่ได้เปิดพัสดุที่ได้รับมาเลยนี่หน่า #character:Hina #image:hina_flush 
 ใครส่งมากันนะ ? #character:Hina #image:hina_flush
 -> postchoice
 == postchoice ==
@@ -12,7 +12,7 @@
         -> ifno
 
 == ifyes ==
-// ~ openItem ("Box")
+~ openItem ("OpenBox")
 นี่มัน #character:Hina #image:hina_flush
 แจกันดอกไม้ของคุณแม่นี่หน่า #character:Hina #image:hina_say
 เอาไปวางไว้บนโต๊ะดีกว่า #character:Hina #image:hina_say
