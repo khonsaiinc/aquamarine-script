@@ -19,6 +19,7 @@ EXTERNAL openItem(itemName)
 -> END
 
 == ifno ==
+~ openItem ("CloseBox")
 เอาไว้ก่อนละกัน #character:Hina #image:hina_say
 วันนี้ฉันเหนื่อยมากแล้ว #character:Hina #image:hina_tired
 -> END
