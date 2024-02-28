@@ -1,9 +1,9 @@
 -> main
 //EXTERNAL changeScene(sceneName)
 == main ==
-(มองไปรอบๆ) #character:Hina #image:hinasleep_question
-เหมือนเสียงจะดังมาจากห้องข้างๆแหะ #character:Hina #image:hinasleep_question
-ฉันควรไปดูเขาหน่อยรึป่าว เผื่อว่าเขาอาจจะมีเรื่องให้ช่วย #character:Hina #image:hinasleep_question
+(มองไปรอบๆ) #character:Hina #image:hina_sleepy2_question1
+เหมือนเสียงจะดังมาจากห้องข้างๆแหะ #character:Hina #image:hina_sleepy2_question2
+ฉันควรไปดูเขาหน่อยรึป่าว เผื่อว่าเขาอาจจะมีเรื่องให้ช่วย #character:Hina #image:hina_sleepy2_question3
 -> postchoice
 == postchoice ==
 จะเดินไปดูการกระทำที่ห้องข้าง ๆ หรือไม่ ?
@@ -18,6 +18,6 @@
 -> END
 
 == ifno ==
-อาจจะไม่มีอะไรก็ได้ ฉันอาจจะคิดไปเอง #character:Hina #image:hinasleep_say
-กลับไปนอนต่อดีกว่า #character:Hina #image:hinasleep_say
+อาจจะไม่มีอะไรก็ได้ ฉันอาจจะคิดไปเอง #character:Hina #image:hina_sleepy2_say_1_1
+กลับไปนอนต่อดีกว่า #character:Hina #image:hina_sleepy2_say_2_2
 -> END
