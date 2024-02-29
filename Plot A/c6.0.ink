@@ -20,5 +20,5 @@ EXTERNAL neighborEvent(sleepOrsurvey)
 สงสัยจังออกไปดูหน่อยดีกว่า//character:Hina #image:hina_sleepy2_question2
 ->END
 ==Sleep==
-นอนต่อดีกว่าเดี๋ยวไปทำงานสายีกว่า//character:Hina #image:hina_sleepy2_tired
+นอนต่อดีกว่าเดี๋ยวไปทำงานสาย//character:Hina #image:hina_sleepy2_tired
 -> END
