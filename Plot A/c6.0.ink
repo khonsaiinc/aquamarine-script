@@ -1,24 +1,27 @@
 EXTERNAL neighborEvent(sleepOrsurvey)
--> Main
+
 //== Main ==
 //ขอโทษนะคะ #character:Hina #image:hina_sleepy2_say_1_1_1
 //คุณเป็นอะไรรึป่าวคะ #character:Hina #image:hina_sleepy2_say_2_2_2
 //พอดีฉันได้ยินเสียงแปลกๆดังมาจากห้องของคุณ #character:Hina #image:hina_sleepy2_say_3_3_3
 //ฉันอยู่ห้องข้างๆ ชื่อฮินะ ค่ะ #character:Hina #image:hina_sleepy2_say_4_4_4
+
+-> Main
 == Main ==
-มีเสียงบ้างอย่างมาจากข้างห้อง
-ต้องการที่จะออกไปดูไหม
--> Sleep_or_Survey
-==Sleep_or_Survey==
-    +[ออกไปดู]
-    ~neighborEvent(Survey)
-    ->Survey
-    +[นอนต่อ]
-    ~neighborEvent(Sleep)
-    ->Sleep
-==Survey==
-สงสัยจังออกไปดูหน่อยดีกว่า//character:Hina #image:hina_sleepy2_question2
-->END
-==Sleep==
-นอนต่อดีกว่าเดี๋ยวไปทำงานสาย//character:Hina #image:hina_sleepy2_tired
+มีเสียงบ้างอย่างมาจากข้างห้อง #character:Descript#image:default
+ต้องการที่จะออกไปดูไหม #character:Descript#image:default
+-> surveyOrsleepChoice
+== surveyOrsleepChoice ==
+    * [ออกไปดู]
+        -> SurveyInfo
+    * [นอนต่อ]
+        -> SleepInfo
+== SurveyInfo ==
+สงสัยจังออกไปดูหน่อยดีกว่า #character:Hina #image:hina_sleepy2_question2
+~ neighborEvent("Survey")
+-> END
+
+== SleepInfo ==
+นอนต่อดีกว่าเดี๋ยวไปทำงานสาย #character:Hina #image:hina_sleepy2_tired
+~ neighborEvent("Sleep")
 -> END
