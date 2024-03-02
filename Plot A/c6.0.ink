@@ -8,8 +8,8 @@ EXTERNAL neighborEvent(sleepOrsurvey)
 
 -> Main
 == Main ==
-มีเสียงบ้างอย่างมาจากข้างห้อง #character:Descript#image:default
-ต้องการที่จะออกไปดูไหม #character:Descript#image:default
+(มีเสียงบางอย่างมาจากข้างห้อง) #character:  #image:default
+ต้องการที่จะออกไปดูหรือไม่ ? #character:  #image:default
 -> surveyOrsleepChoice
 == surveyOrsleepChoice ==
     * [ออกไปดู]

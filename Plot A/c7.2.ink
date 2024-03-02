@@ -5,7 +5,8 @@
 สนใจให้พี่อยู่เฝ้าร้านเป็นเพื่อนรึป่าว #character:Shinkawa #image:shinkawa_say
 ไม่เป้นไรค่ะ แหะๆ #character:Hina #image:hina_uncomfortable
 อยู่คนเดียวตอนกลางคืนมันอันตรายนะ #character:Shinkawa #image:shinkawa_say
-ยิ่งเป็นคนสวยๆแบบเทอด้วยแล้วเนี้ย *มองนมฮินะ* #character:Shinkawa #image:shinkawa_horn
+ยิ่งเป็นคนสวยๆแบบเธอด้วยแล้วเนี้ย #character:Shinkawa #image:shinkawa_horn
+(*กวาดสายตารอบ ๆ ร่างกายฮินะ*) #character:Shinkawa #image:shinkawa_horn
 ฉันไม่เป็นไรจริงๆค่ะ #character:Hina #image:hina_uncomfortablely
 งั้นก็ได้ #character:Shinkawa #image:shinkawa_nor
 ฉันไม่รบกวนเธอดีกว่า #character:Shinkawa #image:shinkawa_considerate
