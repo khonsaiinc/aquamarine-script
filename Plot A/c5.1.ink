@@ -1,11 +1,11 @@
 //EXTERNAL changeScene(sceneName)
 -> Main
 == Main ==
-ตอนนี้ก็ดึกมากแล้ว ฉันควรรีบเข้านอน #character:Hina #image:hina_sleepy2_say_1 // ไม่ชัวร์ว่าต้อง้เปลี่ยนหน้าหรือเปล่า?
-พรุ่งนี้จะได้ไม่ตื่นไปทำงานสาย #character:Hina #image:hina_sleepy2_say_2
+ตอนนี้ก็ดึกมากแล้ว ฉันควรรีบเข้านอน #character:Hina #image:hina_sleepy2_C5_1_say1 // ไม่ชัวร์ว่าต้อง้เปลี่ยนหน้าหรือเปล่า?
+พรุ่งนี้จะได้ไม่ตื่นไปทำงานสาย #character:Hina #image:hina_sleepy2_C5_1_say2
 (ได้ยินเสียงจากข้างนอก) #image:none // ไม่มีภาพ ไม่มี text อาจจะเป็นเสียงอะไรซักอย่างนึง
-ฉันได้ยินเสียงแปลกๆมาจากข้างนอกห้องแหะ #character:Hina #image:hina_sleepy2_say_3
-มันเป็นเสียงอะไรกันนะ #character:Hina #image:hina_sleepy2_say_4
+ฉันได้ยินเสียงแปลกๆมาจากข้างนอกห้องแหะ #character:Hina #image:hina_sleepy2_C5_1_say3
+มันเป็นเสียงอะไรกันนะ #character:Hina #image:hina_sleepy2_C5_1_say4
 -> postchoice
 == postchoice ==
 จะออกไปดูข้างนอกหรือไม่ ?
@@ -20,6 +20,6 @@
 -> END
 
 == ifno ==
-อาจจะเป็นแค่เสียงกระรอกก็ได้ #character:Hina #image:hina_sleepy2_say_5
-ฉันควรนอนต่อ พรุ่งนี้จะได้ตื่นไปทำงาน #character:Hina #image:hina_sleepy2_say_6
+อาจจะเป็นแค่เสียงกระรอกก็ได้ #character:Hina #image:hina_sleepy2_C5_1_say5
+ฉันควรนอนต่อ พรุ่งนี้จะได้ตื่นไปทำงาน #character:Hina #image:hina_sleepy2_C5_1_say6
 -> END
