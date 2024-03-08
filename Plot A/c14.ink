@@ -13,10 +13,11 @@
 // *ทำกาแฟ*
 // *เอากาแฟไปให้คนส่งของ*
 // *เผลอทำกาแฟหกใส่มือคนส่งของ*
-ฮินะ : !? #character:Hina #image:hina_supermarket_c14_accident
+!? #character:Hina #image:hina_supermarket_c14_accident
 ขอโทษจริงๆค่ะ #character:Hina #image:hina_supermarket_c14_accident_say
 ฉันไม่ได้ตั้งใจ #character:Hina #image:hina_supermarket_c14_accident_say
 // *รีบถอดถุงมือคนส่งของ*
-. . . ( ทำหน้าตกใจ ) #character:Hina #image:hina_supermarket_c14_flush
-// *ดึงมือกลับ* #character:Sendman #character:sendman_c14_say3
+. . . #character:Hina #image:hina_supermarket_c14_flush
+(ดึงมือกลับ) #character:Sendman #character:sendman_c14_handpush
 ผมขอตัวก่อนนะคับ #character:Sendman #character:sendman_c14_say_say4
+-> END
