@@ -1,3 +1,4 @@
+EXTERNAL questCheck(isTalked)
 -> main
 == main ==
 เทอมาสายอีกแล้วนะ !! ( ทำหน้าโกรธ) #character:Takeda #image:takeda_angry
@@ -13,4 +14,5 @@
 ได้เลยค่ะ #character:Hina #image:hina_fighting
 งั้นฉันไปก่อนละ #character:Takeda #image:takeda_say
 เดินทางดีๆค่ะ รุ่นพี่ #character:Hina #image:hina_say
+~ questCheck("TakedaFrontSuperMarketDay2")
 -> END
