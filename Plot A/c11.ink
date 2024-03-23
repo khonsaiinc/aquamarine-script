@@ -9,7 +9,6 @@ EXTERNAL doorLockEvent(actions)
 เอ๊ะ...! #character:Hina #image:hina_question
 ทำไมละ #character:Hina #image:hina_say
 เมื่อกี้ยังเปิดได้ปกติอยู่เลย #character:Hina #image:hina_say
-~doorLockEvent("StartTimeline")
 -> END
 
 == recall ==
@@ -19,6 +18,7 @@ EXTERNAL doorLockEvent(actions)
 มีใครอยู่ไหมคะ #character:Hina #image:hina_sayrecall
 .... #character:Hina #image:hina_worried
 แย่แล้วสิทำไงดี ไม่มีใครอยู่อยู่ข้างนอกด้วย รุ่นพี่ก็เพิ่งเลิกงานไป #character:Hina #image:hina_say 
+~doorLockEvent("StartTimeline")
 -> END
 
 == unlock ==
