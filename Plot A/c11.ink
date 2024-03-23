@@ -1,3 +1,4 @@
+EXTERNAL doorLockEvent(actions)
 -> main
 == main ==
 เอ๊ะ...! #character:Hina #image:hina_question // หน้าแบบสงสัย
@@ -8,6 +9,7 @@
 เอ๊ะ...! #character:Hina #image:hina_question
 ทำไมละ #character:Hina #image:hina_say
 เมื่อกี้ยังเปิดได้ปกติอยู่เลย #character:Hina #image:hina_say
+~doorLockEvent("StartTimeline")
 -> END
 
 == recall ==
