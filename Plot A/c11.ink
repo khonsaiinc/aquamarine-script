@@ -2,7 +2,7 @@
 == main ==
 เอ๊ะ...! #character:Hina #image:hina_question // หน้าแบบสงสัย
 ทำไมประตูถึงเปิดไม่ออกละ #character:Hina #image:hina_worried
--> END
+-> recall
 
 == againmain ==
 เอ๊ะ...! #character:Hina #image:hina_question
